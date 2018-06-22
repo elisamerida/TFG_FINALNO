@@ -1,0 +1,63 @@
+===========================================================================================
+======================================BASE DE DATOS 1======================================
+===========================================================================================
+
+===========================================================================================
+ ID y numero de dominios que lo conocen:
+26bc12fdb0d95934b005420827e5fae3	3
+d741af2b-45a8-4fa4-9511-ee4102278e74	2
+85f799fa-51a9-4973-a0e1-b97bf3ce3357	2
+
+===========================================================================================
+ Dominio y IDs que dicho dominio conoce:
+moatads.com	1
+doubleclick.net	1
+ml314.com	1
+bizrate.com	1
+vindicosuite.com	1
+crwdcntrl.net	1
+omtrdc.net	1
+
+===========================================================================================
+ Dominio y numero de visitas de del historial conocido:
+moatads.com	1	3	33	3	33
+A un salto: nbcnews.com,sfgate.com,weather.com,nypost.com,wsj.com,chron.com,forbes.com,cnbc.com,thehill.com,bloomberg.com,nationalgeographic.com,usnews.com,indianexpress.com,hindustantimes.com,theguardian.com,wunderground.com,cbsnews.com,huffingtonpost.es,reuters.com,reddit.com,thehindu.com,time.com,cnn.com,shutterstock.com,hollywoodreporter.com,go.com,accuweather.com,nytimes.com,indiatimes.com,dw.com,news.com.au,variety.com,newsweek.com,
+A dos saltos: nbcnews.com,sfgate.com,weather.com,nypost.com,wsj.com,chron.com,forbes.com,cnbc.com,thehill.com,bloomberg.com,nationalgeographic.com,usnews.com,indianexpress.com,hindustantimes.com,theguardian.com,wunderground.com,cbsnews.com,huffingtonpost.es,reuters.com,reddit.com,thehindu.com,time.com,cnn.com,shutterstock.com,hollywoodreporter.com,go.com,accuweather.com,nytimes.com,indiatimes.com,dw.com,news.com.au,variety.com,newsweek.com,
+
+doubleclick.net	1	3	33	3	33
+A un salto: nbcnews.com,sfgate.com,weather.com,nypost.com,wsj.com,chron.com,forbes.com,cnbc.com,thehill.com,bloomberg.com,nationalgeographic.com,usnews.com,indianexpress.com,hindustantimes.com,theguardian.com,wunderground.com,cbsnews.com,huffingtonpost.es,reuters.com,reddit.com,thehindu.com,time.com,cnn.com,shutterstock.com,hollywoodreporter.com,go.com,accuweather.com,nytimes.com,indiatimes.com,dw.com,news.com.au,variety.com,newsweek.com,
+A dos saltos: nbcnews.com,sfgate.com,weather.com,nypost.com,wsj.com,chron.com,forbes.com,cnbc.com,thehill.com,bloomberg.com,nationalgeographic.com,usnews.com,indianexpress.com,hindustantimes.com,theguardian.com,wunderground.com,cbsnews.com,huffingtonpost.es,reuters.com,reddit.com,thehindu.com,time.com,cnn.com,shutterstock.com,hollywoodreporter.com,go.com,accuweather.com,nytimes.com,indiatimes.com,dw.com,news.com.au,variety.com,newsweek.com,
+
+ml314.com	1	2	6	2	6
+A un salto: sfgate.com,bloomberg.com,chron.com,euronews.com,wunderground.com,wsj.com,
+A dos saltos: sfgate.com,bloomberg.com,chron.com,euronews.com,wunderground.com,wsj.com,
+
+bizrate.com	1	2	1	2	1
+A un salto: time.com,
+A dos saltos: time.com,
+
+vindicosuite.com	1	2	1	2	1
+A un salto: time.com,
+A dos saltos: time.com,
+
+crwdcntrl.net	1	2	6	2	6
+A un salto: sfgate.com,bloomberg.com,chron.com,euronews.com,wunderground.com,wsj.com,
+A dos saltos: sfgate.com,bloomberg.com,chron.com,euronews.com,wunderground.com,wsj.com,
+
+omtrdc.net	1	3	33	3	33
+A un salto: nbcnews.com,sfgate.com,weather.com,nypost.com,wsj.com,chron.com,forbes.com,cnbc.com,thehill.com,bloomberg.com,nationalgeographic.com,usnews.com,indianexpress.com,hindustantimes.com,theguardian.com,wunderground.com,cbsnews.com,huffingtonpost.es,reuters.com,reddit.com,thehindu.com,time.com,cnn.com,shutterstock.com,hollywoodreporter.com,go.com,accuweather.com,nytimes.com,indiatimes.com,dw.com,news.com.au,variety.com,newsweek.com,
+A dos saltos: nbcnews.com,sfgate.com,weather.com,nypost.com,wsj.com,chron.com,forbes.com,cnbc.com,thehill.com,bloomberg.com,nationalgeographic.com,usnews.com,indianexpress.com,hindustantimes.com,theguardian.com,wunderground.com,cbsnews.com,huffingtonpost.es,reuters.com,reddit.com,thehindu.com,time.com,cnn.com,shutterstock.com,hollywoodreporter.com,go.com,accuweather.com,nytimes.com,indiatimes.com,dw.com,news.com.au,variety.com,newsweek.com,
+
+
+===========================================================================================
+ RESUMEN DE ESTADISTICAS:
+
+NUMERO DE IDS: 42
+NUMERO DE IDS COOKIES: 43
+NUMERO DE IDS IMPLICADOS EN SINCRONIZACIONES: 16
+NUMERO DE IDS COOKIES IMPLICADOS EN SINCRONIZACIONES: 17
+NUMERO DE DOMINIOS IMPLICADOS EN SINCRONIZACIONES 7
+DOMINIOS POR CADA ID: 
+ Minimo=2 |  Media=2.33333333333 |  Mediana=2.0 |  Maximo=3
+ID POR CADA DOMINIO: 
+ Minimo=1 |  Media=1.0 |  Mediana=1.0 |  Maximo=1
